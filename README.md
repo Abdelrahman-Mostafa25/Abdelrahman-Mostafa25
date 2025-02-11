@@ -24,8 +24,11 @@ Abdelrhman Mostafa</a></h1>
         </a>
 			<a href="https://wa.me/+201212331045" target="_blank"><img src="https://img.shields.io/badge/-Abdelrhman%20Mostafa-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white"/></a>
 <a href="mailto:abdelrahman.mostafa2111@gmail.com" target="_blank">
-<a href="https://t.me/AbdelrahmanMostafa25" target="_blank"><img src="https://img.shields.io/badge/-Abdelrhman%20Mostafa-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/-Abdelrhman%20Mostafa-EA2328?style=for-the-badge&logo=Gmail&logoColor=red"/></a>
+<a href="https://t.me/AbdelrahmanMostafa25" target="_blank">
+	<img src="https://img.shields.io/badge/-Abdelrhman%20Mostafa-26A5E4?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="mailto:abdelrahman.mostafa2111@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/-Abdelrhman%20Mostafa-EA2328?style=for-the-badge&logo=Gmail&logoColor=red" alt="Email Abdelrhman Mostafa"/>
+</a>
       </div>
 
 </p>
