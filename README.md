@@ -13,7 +13,7 @@ Abdelrhman Mostafa</a></h1>
 - 🌱 I’m currently learning and exploring new technologies to improve my skills
 - 💪🏼 Future Goals: Constantly learning and exploring new technologies to improve my skills in odoo Framework and other Technology
 - 💬 Ask me about <strong>Python, Data Structure, Algorithm, OOP, PostgreSQL and Odoo Framwork</strong>
-- 📄 Know about my experiences: [Download CV]
+- 📄 Know about my experiences: [Download CV](https://drive.google.com/file/d/1gWdHbEJnIRW1EcXR1OA6V40cFAy56zX1/view?usp=drive_link)
 <br/>
 <br/>
 <h3 align="center"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 15px;">Connect with me 🤝 </h3>
